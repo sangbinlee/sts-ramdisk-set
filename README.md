@@ -33,3 +33,8 @@ REM  --disk-cache-dir="N:\TEMP\chrome_cache"
 # open folder by   shell:common startup  
 
 # drag and drop bat .lnk file to  [C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp] 
+
+
+
+#  chrome link edit
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disk-cache-dir="N:\TEMP\chrome_cache"
