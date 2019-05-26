@@ -38,3 +38,48 @@ REM  --disk-cache-dir="N:\TEMP\chrome_cache"
 
 #  chrome link edit
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disk-cache-dir="N:\TEMP\chrome_cache"
+
+
+
+
+
+
+
+
+
+
+
+# SpringToolSuite4.ini
+
+
+-vm
+D:/jdk1.8.0_211/bin
+-startup
+plugins/org.eclipse.equinox.launcher_1.5.300.v20190213-1655.jar
+--launcher.library
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.1000.v20190125-2016
+-product
+org.springframework.boot.ide.branding.sts4
+--launcher.defaultAction
+openFile
+-vmargs
+-Dosgi.requiredJavaVersion=1.8
+-Xms2048m
+-Xmx2048m
+-XX:+UseG1GC
+-XX:+UseStringDeduplication
+--add-modules=ALL-SYSTEM
+-javaagent:D:\sts-4.2.1.RELEASE\lombok.jar
+
+
+
+
+
+
+
+
+
+
+
+
+
