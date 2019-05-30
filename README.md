@@ -28,6 +28,28 @@ REM shell:common startup
 REM  --disk-cache-dir="N:\TEMP\chrome_cache"
 
 
+
+D:\sts-4.2.1.RELEASE\SpringToolSuite4.exe
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # make bat .lnk
 
 # open folder by   shell:common startup  
